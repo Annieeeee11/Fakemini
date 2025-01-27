@@ -32,7 +32,6 @@ const Main = () => {
     <div className="main">
       <div className="nav">
         <p> Fakini </p>
-        <img src="#"></img>
       </div>
 
       <div className="main-container">
